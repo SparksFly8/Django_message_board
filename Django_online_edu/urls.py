@@ -19,5 +19,6 @@ from message import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^form/$', views.getform),
+    url(r'^form/$', views.submitform, name='formUrl'),
+    url(r'^showform/$', views.showform, name='showformUrl'),
 ]

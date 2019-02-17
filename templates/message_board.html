@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<form action="{% url 'formUrl' %}" method="post" class="smart-green">
+    <h1>留言板
+        <span>显示当前及历史留言信息.</span>
+    </h1>
+    {% for message in all_messages %}
+        <label>
+            <span>{{ message.name }} :</span><br>
+            <h2>{{ message.message }}</h2>
+            <div class="error-msg"></div>
+        </label>
+    {% endfor %}
+    <div class="success-msg"></div>
+    <label>
+        <span>&nbsp;</span>
+        <input type="submit" class="button" value="返回"/>
+    </label>
+    <input type='hidden' name='csrfmiddlewaretoken' value='SfHkbL4feo1G00sJQtbO7TtLN4c2BUwa' />
+    {% csrf_token %}
+</form>
+</body>
+</html>
