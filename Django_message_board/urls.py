@@ -1,4 +1,4 @@
-"""Django_online_edu URL Configuration
+"""Django_message_board URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.11/topics/http/urls/
