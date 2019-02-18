@@ -16,5 +16,6 @@
 【功能】：显示当前及历史留言信息。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190218112419891.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NMX1dvcmxk,size_16,color_FFFFFF,t_70)
-#### 三、MySQL数据库信息!
-[在这里插入图片描述](https://img-blog.csdnimg.cn/20190218112433439.png)
+#### 三、MySQL数据库信息
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190218112433439.png)
