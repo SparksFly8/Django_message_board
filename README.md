@@ -13,7 +13,7 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190218112406352.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NMX1dvcmxk,size_16,color_FFFFFF,t_70)
 #### 二、留言板界面如下：
-【功能】：显示当前及历史留言信息。
+【功能】：显示当前及历史留言信息。点击**提返回**按钮可返回至**留言信息界面**继续留言。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190218112419891.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NMX1dvcmxk,size_16,color_FFFFFF,t_70)
 #### 三、MySQL数据库信息
