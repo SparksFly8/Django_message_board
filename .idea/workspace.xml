@@ -28,7 +28,7 @@
         <counts>
           <entry key="css" value="3" />
           <entry key="html" value="11" />
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
           <entry key="py" value="92" />
         </counts>
       </usages-collector>
@@ -36,7 +36,7 @@
         <counts>
           <entry key="CSS" value="3" />
           <entry key="HTML" value="11" />
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
           <entry key="Python" value="92" />
         </counts>
       </usages-collector>
@@ -101,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Django_message_board/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="216">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
               </folding>
@@ -114,8 +114,8 @@
         <entry file="file://$PROJECT_DIR$/../Django_message_board/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="270">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -341,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550460048242</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="message_board commit">
+      <created>1550460883050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550460883050</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -710,8 +717,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Django_message_board/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="216">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="e#22#31#0" expanded="true" />
           </folding>
@@ -721,8 +728,8 @@
     <entry file="file://$PROJECT_DIR$/../Django_message_board/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="270">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor />
         </state>
