@@ -1,6 +1,7 @@
 ## 实现一个简单入门的基于Django框架的留言板
 ![](https://img.shields.io/badge/license-MIT-success.svg)
 [![](https://img.shields.io/badge/Blog-SL_World-orange.svg)](https://blog.csdn.net/SL_World)
+
 【目的】：用以回顾Django基础知识，[官方文档](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)。
 
 【开发环境】：
